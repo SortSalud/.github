@@ -1,4 +1,4 @@
-Bienvenido al repositorio de **SortSalud** en GitHub.
+### Bienvenido al repositorio de **SortSalud** en GitHub.
 
 **SortSalud** es una empresa dedicada a la gestión de citas médicas y el cuidado de la salud de nuestros pacientes. Estamos comprometidos en proporcionar una experiencia de atención médica de alta calidad y en brindar un servicio amigable y eficiente a nuestros pacientes.
 
